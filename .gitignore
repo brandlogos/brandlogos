@@ -6,3 +6,4 @@
 ## Folders
 /.idea
 /node_modules
+/packages/**/CHANGELOG.md

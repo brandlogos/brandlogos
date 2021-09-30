@@ -1,0 +1,22 @@
+{
+    "name": "@brandlogos/mastercard",
+    "version": "0.0.0",
+    "description": "Mastercard Brand Logos.",
+    "keywords": [
+        "mastercard",
+        "brand",
+        "logo",
+        "svg"
+    ],
+    "homepage": "https://github.com/brandlogos/brandlogos#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brandlogos/brandlogos.git"
+    },
+    "bugs": {
+        "url": "https://github.com/brandlogos/brandlogos/issues"
+    },
+    "publishConfig": {
+        "access": "public"
+    }
+}

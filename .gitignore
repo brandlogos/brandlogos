@@ -2,8 +2,10 @@
 *.lerna_backup
 *.log
 *.orig
+/packages/*/package-lock.json
 
 ## Folders
 /.idea
 /node_modules
-/packages/**/CHANGELOG.md
+/packages/*/CHANGELOG.md
+/packages/*/node_modules

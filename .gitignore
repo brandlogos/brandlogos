@@ -1,0 +1,6 @@
+## Files
+*.map
+*.orig
+
+## Folders
+/.idea

@@ -6,8 +6,10 @@
         "mastercard",
         "brand",
         "logo",
-        "svg"
+        "svg",
+        "vector"
     ],
+    "license": "MIT",
     "homepage": "https://github.com/brandlogos/brandlogos#readme",
     "repository": {
         "type": "git",
